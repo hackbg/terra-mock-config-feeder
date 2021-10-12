@@ -1,0 +1,138 @@
+[
+    {
+        "contractAddress": "terra1my3jvl6zs2n27648zngqrtw8pd23nrkrnw8hz6",
+        "contractVersion": 3,
+        "decimalPlaces": 8,
+        "heartbeat": 100,
+        "history": false,
+        "multiply": "100000000",
+        "name": "LINK / USD",
+        "symbol": "$",
+        "pair": [
+          "LINK",
+          "USD"
+        ],
+        "path": "link-usd",
+        "nodeCount": 1,
+        "status": "live"
+      },
+      {
+        "contractAddress": "terra1443tsep7gda53t9l4wwmms7a3ch4ccd32s9aet",
+        "contractVersion": 3,
+        "decimalPlaces": 8,
+        "heartbeat": 100,
+        "history": false,
+        "multiply": "100000000",
+        "name": "LUNA / USD",
+        "symbol": "$",
+        "pair": [
+          "LUNA",
+          "USD"
+        ],
+        "path": "luna-usd",
+        "nodeCount": 1,
+        "status": "live"
+      },
+      {
+        "contractAddress": "terra1448nqda3f74dnylz2qlnze9jsagct38huksk4a",
+        "contractVersion": 3,
+        "decimalPlaces": 8,
+        "heartbeat": 100,
+        "history": false,
+        "multiply": "100000000",
+        "name": "BTC / USD",
+        "symbol": "$",
+        "pair": [
+          "BTC",
+          "USD"
+        ],
+        "path": "btc-usd",
+        "nodeCount": 1,
+        "status": "live"
+      },
+      {
+        "contractAddress": "terra17g78mqhgzhpfud4xnt9vdqp752tg5kc6uw3cz0",
+        "contractVersion": 3,
+        "decimalPlaces": 8,
+        "heartbeat": 100,
+        "history": false,
+        "multiply": "100000000",
+        "name": "ETH / USD",
+        "symbol": "$",
+        "pair": [
+          "ETH",
+          "USD"
+        ],
+        "path": "eth-usd",
+        "nodeCount": 1,
+        "status": "live"
+      },
+      {
+        "contractAddress": "terra1fxrdrnn48fec7hkpp3zexlvacemz9mgnynmf32",
+        "contractVersion": 3,
+        "decimalPlaces": 8,
+        "heartbeat": 100,
+        "history": false,
+        "multiply": "100000000",
+        "name": "AAPL / USD",
+        "symbol": "$",
+        "pair": [
+          "AAPL",
+          "USD"
+        ],
+        "path": "aapl-usd",
+        "nodeCount": 1,
+        "status": "live"
+      },
+      {
+        "contractAddress": "terra1nsmppls52m3fmphznag3f7lue5wp6ffrp9e4s5",
+        "contractVersion": 3,
+        "decimalPlaces": 8,
+        "heartbeat": 100,
+        "history": false,
+        "multiply": "100000000",
+        "name": "GOOGL / USD",
+        "symbol": "$",
+        "pair": [
+          "GOOGL",
+          "USD"
+        ],
+        "path": "google-usd",
+        "nodeCount": 1,
+        "status": "live"
+      },
+      {
+        "contractAddress": "terra1524xlzzzk4myheaahgyewf7pfz2a4dayrzr2g6",
+        "contractVersion": 3,
+        "decimalPlaces": 8,
+        "heartbeat": 100,
+        "history": false,
+        "multiply": "100000000",
+        "name": "FB / USD",
+        "symbol": "$",
+        "pair": [
+          "FB",
+          "USD"
+        ],
+        "path": "fb-usd",
+        "nodeCount": 1,
+        "status": "live"
+      },
+      {
+        "contractAddress": "terra1524xlzzzk4myheaahgyewf7pfz2a4dayrzr2g6",
+        "contractVersion": 3,
+        "decimalPlaces": 8,
+        "heartbeat": 100,
+        "history": false,
+        "multiply": "100000000",
+        "name": "AMZN / USD",
+        "symbol": "$",
+        "pair": [
+          "AMZN",
+          "USD"
+        ],
+        "path": "amzn-usd",
+        "nodeCount": 1,
+        "status": "live"
+      }
+]
